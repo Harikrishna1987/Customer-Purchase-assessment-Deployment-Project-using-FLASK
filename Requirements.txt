@@ -1,0 +1,15 @@
+Project Title: Customer Purchase Evaluation
+Author: Hari Krishna Mudiduddi
+
+You need to install the following packages & libraries for this web application to work
+Environment and tools
+
+Python: 3.7.7
+FLASK: 1.1.2 for web ui
+Numpy: 1.19.1
+Pandas: 1.1.0
+Juypter NoteBook
+Library: Scikit-learn
+Visualisation: Matplotlib, Seaborn
+Pickle: Serializing /De-Serializing
+Json
